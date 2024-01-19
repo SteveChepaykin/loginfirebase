@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004161989253",
+    "project_id": "testtask-73b2f",
+    "storage_bucket": "testtask-73b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004161989253:android:0dff074a1f8a63dcc387ec",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase_testtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfZYRTYJxtDJhc7jj_wUzDc-TJAlHdqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
